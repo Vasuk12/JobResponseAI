@@ -7,3 +7,4 @@ chromadb
 streamlit==1.21.0
 pandas==1.5.3
 python-dotenv==0.21.1
+sqlite3==3.35.0
