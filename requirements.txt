@@ -3,7 +3,7 @@ langchain-community
 langchain-groq
 unstructured==0.4.0
 selenium==4.8.0
-chromadb
+
 streamlit==1.21.0
 pandas==1.5.3
 python-dotenv==0.21.1
